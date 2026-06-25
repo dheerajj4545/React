@@ -1,7 +1,10 @@
-
+import Hello from "./Hello"
 function App() {
   return (
-    <h1>React with Vite | Dheeraj</h1>
+    <>
+      <Hello/>
+      <h1>React with Vite | Dheeraj</h1>
+    </>
   )
 }
 
